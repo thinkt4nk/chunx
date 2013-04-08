@@ -1,0 +1,12 @@
+{
+  "name": "chunx",
+  "version": "0.0.1",
+  "description": "A plaintext search tool",
+  "main": "./lib/chunx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Ryan Bales (thinkt4nk@gmail.com)",
+  "license": "BSD"
+}
